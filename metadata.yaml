@@ -1,0 +1,40 @@
+_repo: Der-Kinderkreuzzug_39624
+_version: 0.1.0
+alternative_title: La croisade des enfants. German
+contributor:
+  translator:
+    agent_name: Seiffhart, Arthur
+    birthdate: 1880
+    deathdate: 1959
+    gutenberg_agent_id: '40119'
+    url: http://www.gutenberg.org/2009/agents/40119
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schwob, Marcel
+    aliases:
+    - Schwob, Mayer André Marcel
+    - Loyson-Bridet
+    - Schwob, Mayer Andre Marcel
+    birthdate: 1867
+    deathdate: 1905
+    gutenberg_agent_id: '7814'
+    url: http://www.gutenberg.org/2009/agents/7814
+    wikipedia: http://en.wikipedia.org/wiki/Marcel_Schwob
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2012-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39624'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Children''s Crusade, 1212 -- Fiction'
+title: Der Kinderkreuzzug
+url: http://www.gutenberg.org/ebooks/39624
